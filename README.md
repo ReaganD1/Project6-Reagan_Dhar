@@ -35,8 +35,9 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/116980504/230700926-b87b3439-ba0b-47df-bb20-e7b81a2a390e.gif)
 
-<img src='https://i.imgur.com/OCeLDP0.gif' title='Pokemon API Recycler' width='' alt='Pokemon API Recycler' />
+<img src='' title='Pokemon API Recycler' width='' alt='Pokemon API Recycler' />
 
 GIF created with **Kap**
 
