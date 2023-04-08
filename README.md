@@ -8,7 +8,7 @@ Time spent: **10** hours spent in total
 
 ## Summary
 
-**Pokemon API Recycler** is an android app that **takes in data from prokemon api and adds it to the RecyclerView**
+**Pokemon API Recycler** is an android app that **takes in data from the Pokemon API and adds it to the RecyclerView.**
 
 If I had to describe this project in three (3) emojis, they would be: **🙂👌🏻👍🏻**
 
@@ -49,7 +49,7 @@ GIF created with **Kap**
 
 ## Notes
 
-I learned how to use RecyclerView in android studio and how to import data into it.
+I learned how to use RecyclerView in Android Studio and how to import data into it.
 
 ## License
 
